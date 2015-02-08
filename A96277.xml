@@ -820,17 +820,93 @@ following manner.</p>
                   <desc>〈 math 〉</desc>
                </gap>
             </p>
-            <figure>
-               <head>Thoema coeleste, ex tabulis
+            <p>
+               <pb n="11" facs="tcp:159928:8"/>
+               <table>
+                  <head>Collectio Cuſpidum.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">deg.</cell>
+                     <cell role="label">min.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell role="label">deg.</cell>
+                     <cell role="label">min</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>X.</cell>
+                     <cell>2. </cell>
+                     <cell>16. </cell>
+                     <cell>Scorp.</cell>
+                     <cell>Taur. </cell>
+                     <cell>2. </cell>
+                     <cell>16.</cell>
+                     <cell>IV.</cell>
+                  </row>
+                  <row>
+                     <cell>XI.</cell>
+                     <cell>19.</cell>
+                     <cell>59.</cell>
+                     <cell>Scorp.</cell>
+                     <cell>Taur.</cell>
+                     <cell>19.</cell>
+                     <cell>59.</cell>
+                     <cell>.V</cell>
+                  </row>
+                  <row>
+                     <cell>XII.</cell>
+                     <cell>5.</cell>
+                     <cell>1.</cell>
+                     <cell>Sagit.</cell>
+                     <cell>Gem.</cell>
+                     <cell>5.</cell>
+                     <cell>1.</cell>
+                     <cell>VI.</cell>
+                  </row>
+                  <row>
+                     <cell>I.</cell>
+                     <cell>24.</cell>
+                     <cell>45.</cell>
+                     <cell>Sagit.</cell>
+                     <cell>Gem.</cell>
+                     <cell>24.</cell>
+                     <cell>45.</cell>
+                     <cell>VII.</cell>
+                  </row>
+                  <row>
+                     <cell>II.</cell>
+                     <cell>3.</cell>
+                     <cell>37.</cell>
+                     <cell>Aquar.</cell>
+                     <cell>Leon.</cell>
+                     <cell>3.</cell>
+                     <cell>37.</cell>
+                     <cell>VIII.</cell>
+                  </row>
+                  <row>
+                     <cell>III.</cell>
+                     <cell>0.</cell>
+                     <cell>6.</cell>
+                     <cell>Ariet</cell>
+                     <cell>Libr.</cell>
+                     <cell>0.</cell>
+                     <cell>6.</cell>
+                     <cell>IX.</cell>
+                  </row>
+               </table>
+               <figure>
+                  <head>Thoema coeleste, ex tabulis
 Directionum Regiomontani
 ad tempas Apparens Con<gap reason="illegible" resp="#TECH" extent="1 letter">
-                     <desc>•</desc>
-                  </gap>
-                  <g ref="char:EOLhyphen"/>junctionis
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>junctionis
 Saturni et
 Martis; Anno Domini
 1646</head>
-            </figure>
+               </figure>
+            </p>
             <p>What thinke you now <hi>(M. Booker)</hi> have I not juſt cauſe to di<g ref="char:EOLhyphen"/>ſtruſt,
 and diligently to examine your worke: and to call
 <pb n="10" facs="tcp:159928:8"/>
